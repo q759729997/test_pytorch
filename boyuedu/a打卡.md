@@ -27,6 +27,8 @@ pytorch资料：https://shimo.im/mindmaps/jkhHr3pCkCYwWWgR
 
 ## 任务2
 
+- 链接：<https://jinshuju.net/f/drWQSp>
+
 - **task03 打卡链接**
 
   *过拟合、欠拟合及其解决方案*；*梯度消失、梯度爆炸*；*循环神经网络进阶*
