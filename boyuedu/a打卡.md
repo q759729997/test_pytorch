@@ -19,7 +19,7 @@
 本期打卡地址：https://jinshuju.net/f/lU2pgj
 pytorch资料：https://shimo.im/mindmaps/jkhHr3pCkCYwWWgR
 
-~~~
+~~~wiki
 1、softmax计算时，数字1000计算其幂数时，Python出现溢出问题，尚未研究解决。
 2、困惑度在教程中描述“最佳情况下，模型总是把标签类别的概率预测为1，此时困惑度为1”，此条结论与“语言模型越好，困惑度越小”看似有些些矛盾，查询其公式后多了一些了解。
 3、pytorch不熟练，易卡壳，需要不断查文档。
@@ -40,3 +40,30 @@ pytorch资料：https://shimo.im/mindmaps/jkhHr3pCkCYwWWgR
 - **task05 打卡链接**
 
   *卷积神经网络基础*；*leNet*；卷积神经网络进阶
+
+## 任务3
+
+- 描述：https://jinshuju.net/f/8h4T9n
+
+~~~wiki
+【第三次打卡】截止时间 25号22:00（明天）
+【任务内容】2选1：NLP或CV方向
+具体内容见【学员手册】：https://shimo.im/docs/pdr3wkyHKrxJYdyT/read
+本期【打卡链接】：https://jinshuju.net/f/8h4T9n
+自助查询【打卡结果】：https://jinshuju.net/f/8h4T9n/r/oCSM4K
+~~~
+
+- Task06：批量归一化和残差网络；凸优化；梯度下降（1天）
+
+- Task07：优化算法进阶；word2vec；词嵌入进阶（1天）
+
+- Task08：文本分类；数据增强；模型微调（1天）
+
+## 任务4
+
+- （Task06：批量归一化和残差网络；凸优化；梯度下降（1天））
+
+- Task09：目标检测基础；图像风格迁移；图像分类案例1（1天）
+
+- Task10：图像分类案例2；GAN；DCGAN（1天）
+- ps Task08：数据增强；模型微调 cv 方向的小伙伴建议观看哦
